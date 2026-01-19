@@ -1,0 +1,2 @@
+APP_NAME = "Instituto"
+WINDOW_SIZE = "600x600"
